@@ -131,5 +131,6 @@ for column in df_log.columns:  # Iterate over columns of df_log
     else:
         print("Failed to reject the null hypothesis; the data is non-stationary.")
 
+print(df)
 #2.1)
 
